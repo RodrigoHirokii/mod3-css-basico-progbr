@@ -1,0 +1,16 @@
+body {
+  font-family: "Roboto", sans-serif;
+  font-weight: bold;
+}
+.links {
+  text-decoration: none;
+  color: white;
+  background: black;
+  padding: 7px;
+  border-radius: 7px;
+  border: 2px solid red;
+}
+.links:hover {
+  background: red;
+  color: white;
+}

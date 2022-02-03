@@ -1,0 +1,81 @@
+/* Cores */
+.red {
+  color: #db5146;
+  background: black;
+}
+.purple {
+  color: purple;
+}
+/* Divs */
+.subDiv {
+  color: white;
+  background: #a800ff;
+}
+.rodrigo {
+  text-decoration: underline;
+}
+/* Unidades de Medidas */
+#cm {
+  background: cornflowerblue;
+  width: 1cm;
+  height: 1cm;
+}
+#mm {
+  background: red;
+  width: 5mm;
+  height: 5mm;
+}
+#in {
+  background: cornflowerblue;
+  width: 1in;
+  height: 1in;
+}
+#px {
+  background: red;
+  width: 10px;
+  height: 10px;
+}
+#pt {
+  background: cornflowerblue;
+  width: 10pt;
+  height: 10pt;
+}
+#pc {
+  background: red;
+  width: 10pc;
+  height: 10pc;
+}
+.container {
+  width: 200px;
+  background: red;
+}
+.inside {
+  width: 100px;
+  background: blue;
+}
+#base {
+  height: 10px;
+  background: cornflowerblue;
+}
+/* Bordas */
+#bergs {
+  background-color: purple;
+  padding-top: 10px;
+  color: white;
+}
+.borda {
+  margin-top: 200px;
+  border-width: 5px;
+  border-style: solid;
+  border-color: red;
+  border-radius: 5px;
+
+  /* MESMA COISA QUE ACIMA */
+  /* border: 5px solid red; */
+}
+.quadrado {
+  margin-top: 100px;
+  width: 100px;
+  height: 100px;
+  background-color: green;
+}

@@ -1,0 +1,23 @@
+ul {
+  list-style: none;
+  list-style-position: inside;
+  background-color: #f3e;
+  margin: 0;
+  padding: 10px;
+}
+ol {
+  list-style: upper-alpha;
+  list-style-position: inside;
+  margin: 0;
+  padding: 10px;
+  background-color: blue;
+}
+li {
+  border: 1px solid red;
+  margin: 5px;
+  padding: 5px;
+  background: yellow;
+}
+a {
+  text-decoration: none;
+}
